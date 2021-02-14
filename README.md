@@ -1,1 +1,1 @@
-![Alt text](/index.html)
+![](./index.svg)
